@@ -1,7 +1,7 @@
 # Zimbabwe DHS Survery: Understanding DHS Clustering
 
 <strong>Blog</strong>: <a href="https://www.daikiminaki.com/">Daiki Minaki Data Blog </a><br>
-<strong>Github</strong>: <a href=""></a>
+<strong>Github</strong>: <a href="https://github.com/daikiminaki/zimbabwe_analysis/">https://github.com/daikiminaki/zimbabwe_analysis/</a>
 
 ## About The Data:
 Demographic & Health Surveys Preprocessed Data: <a href="https://www.kaggle.com/taniaj/zimbabwe-preprocessed/home">Source Here</a>
